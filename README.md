@@ -18,7 +18,7 @@
 | ```DWORDLONG```    | ```u64```       | ```uint64```    | ```ulong```
 | ```PDWORD```       | ```*mut u32```  | ```*uint32```   | ```uint*```
 | ```LPDWORD```      | ```*mut u32```  | ```*uint32```   | ```uint*```
-| ```HANDLE```       | ```u32```       | ```uint32```    | ````uint``
+| ```HANDLE```       | ```u32```       | ```uint32```    | ````uint```
 | ```LPHANDLE```     | ```*mut u32```  | ```*uint32```   | ```uint*```
 | ```BOOL```         | ```bool```      | ```bool```      | ```bool```
 | ```LPSTR```        | ```*mut [u8]``` | ```*[]uint8```  | ```byte[]*``` (?)
